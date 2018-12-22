@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: '005-21'
+}
+
+item {
+  id: 2
+  name: 'CP871-14'
+}
+
+item {
+  id: 3
+  name: '005-18J'
+}
+
+item {
+  id: 4
+  name: '982J'
+}
+
+item {
+  id: 5
+  name: 'Beef2'
+}
+
+item {
+  id: 6
+  name: '970J'
+}
